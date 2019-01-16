@@ -1,5 +1,10 @@
 package com.hub.gui.interview.model;
 
+
+/**
+ * This Class represent a Default native object.
+ * {@link JniObject#nativeHandle} is the pointer to this object
+ */
 public class JniObject {
     private long nativeHandle;
 

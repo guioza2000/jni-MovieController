@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">interview</string>
+    <string name="action_settings">Settings</string>
+    <string name="score"><![CDATA[<b><font color=#008577>Score:</font></b>]]> %.1f</string>
+    <string name="description"><![CDATA[<b><font color=#008577>Description:<br></font></b>]]> %s</string>
+    <string name="actors">Actors:</string>
+
+</resources>
